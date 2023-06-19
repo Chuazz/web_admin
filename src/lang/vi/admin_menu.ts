@@ -1,0 +1,26 @@
+const admin_menu_vi: any = {
+    dashboard: 'Thống kê',
+    master_data: 'Dữ liệu nguồn',
+    product: 'Sản phẩm',
+    service: 'Dịch vụ',
+    business: 'Kinh doanh',
+    setting: 'Hệ thống',
+    branch: 'Chi nhánh',
+    payment_method: 'Phương thức thanh toán',
+    product_category: 'Nhóm sản phẩm',
+    phone: 'Điện thoại',
+    earphone: 'Tai nghe',
+    accessory: 'Linh kiện',
+    repair: 'Sửa chửa',
+    warranty: 'Bảo hành',
+    voucher: 'Mã giảm giá',
+    price_policy: 'Chính sách giá',
+    staff_role: 'Vai trò nhân viên',
+    staff: 'Nhân viên',
+    cable: 'Dây sạc',
+    adapter: 'Củ sạc',
+    phone_case: 'Ốp lưng',
+    power_bank: 'Sạc dự phòng',
+};
+
+export default admin_menu_vi;
